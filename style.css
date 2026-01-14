@@ -79,3 +79,19 @@ footer {
   border-top: 1px solid #333;
   text-align: center;
 }
+
+.compromisso {
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+  border: 2px solid #c93c3c;
+  background: #111;
+  font-weight: bold;
+  text-align: center;
+  color: #f2f2f2;
+}
+
+.compromisso p {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
